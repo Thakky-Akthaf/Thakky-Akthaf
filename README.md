@@ -15,9 +15,8 @@ I'm a passionate **Full-Stack Web Developer** with experience in building dynami
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Projects
-- [Project Name 1](https://github.com/yourusername/project1) - Brief description
-- [Project Name 2](https://github.com/yourusername/project2) - Brief description
-- [Project Name 3](https://github.com/yourusername/project3) - Brief description
+- [Project Name 1](https://github.com/Thakky-Akthaf/Digital_Clock.git) - A real-time digital clock built with JavaScript that displays the current time, updating every second for accuracy.
+- [Project Name 2](https://github.com/Thakky-Akthaf/Countdown_Timer.git) - A customizable countdown timer built with JavaScript that allows users to set a target time and displays the remaining time dynamically.
 
 ## Let's Connect
 - 📫 How to reach me: [r8770286@gmail.com](mailto:r8770286@gmail.com)
